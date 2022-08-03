@@ -1,0 +1,9 @@
+﻿1. Xem video bài giảng, nêu các bước thực hiện export(không quá 10 dòng):
+Bước 1: Chọn database cần export
+Bước 2: Kích chọn vào nút Export trên thanh Công cụ
+Bước 3: Kích chọn vào nút Go để lưu Database vào (nếu có yêu cầu thì chọn vị trí lưu rồi chọn OK).
+
+2. Xem video bài giảng, nêu các bước thực hiện import(không quá 10 dòng):
+Bước 1: Tạo ra một Database mới hoặc chọn Database để Import dữ liệu vào
+Bước 2: Kích chọn vào nút Import trên thanh Công cụ
+Bước 3: Chọn File cần import rồi kích chọn nút Go

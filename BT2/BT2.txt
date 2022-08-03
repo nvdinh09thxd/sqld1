@@ -1,0 +1,12 @@
+1. Tạo database tintuc:
+CREATE DATABASE tintuc COLLATE utf8_unicode_ci
+
+2. Tạo Table danhmuctin:
+CREATE TABLE danhmuctin(id_danhmuctin int, tendanhmuctin varchar(50),
+	PRIMARY KEY (id_danhmuctin))
+	
+3. Chèn dữ liệu vào table danhmuctin:
+INSERT INTO danhmuctin (id_danhmuctin, tendanhmuctin) VALUES 
+				(1, "Toàn cảnh Nhật Bản"), (2, "Tin tức Việt Nhật"), 
+				(3, "Tin tức giải trí"), (4, "Du học Nhật Bản"), 
+				(5, "Tin thể thao"), (6, "Tin xã hội")
